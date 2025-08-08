@@ -9,7 +9,7 @@ public class ifElseIfandSwitch {
         } else if (age >= 18){
             System.out.println("El usuario es mayor de edad");
         } else {
-            System.out.println("Error");
+            System.out.println("Error, edad invalida");
         }
         // Case
         int day = Integer.parseInt(JOptionPane.showInputDialog("Introduce el dia de la semana (En numero): "));
