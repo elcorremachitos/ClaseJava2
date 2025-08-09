@@ -1,6 +1,8 @@
+package Ejercicio6;
+
 import javax.swing.*;
 
-public class ifElseIfandSwitch {
+public class IfElseIfandSwitch {
     public static void main(String[] args){
         // If and ElseIf
         int age = Integer.parseInt(JOptionPane.showInputDialog("Introduce tu edad:"));

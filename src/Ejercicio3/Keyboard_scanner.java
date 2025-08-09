@@ -1,6 +1,8 @@
+package Ejercicio3;
+
 import java.util.Scanner;
 
-public class keyboard_scanner {
+public class Keyboard_scanner {
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
